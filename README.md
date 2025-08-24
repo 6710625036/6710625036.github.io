@@ -1,1 +1,6 @@
-# 6710625036.github.io
+- ชื่อ: พศิกา ศรัทธาพร
+- สาขาวิชา: วิศวกรรมคอมพิวเตอร์
+- งานอดิเรก: ฟังเพลง
+- Email:  mergypasika@gmail.com
+- ![My photo](profile.jpg)
+- 
